@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending club case study 
+> Lending club Project detail
 
 
 ## Table of Contents
