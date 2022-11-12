@@ -43,35 +43,38 @@ Highlight the values required for analysis
 - ![image](https://user-images.githubusercontent.com/84132394/201460527-f2a5711b-c4b5-4ab2-9b4f-2fe47183baee.png)
 Defaulter can be mapped with the grade of loan as A is having least defaulters and G is highest. 
 ![image](https://user-images.githubusercontent.com/84132394/201460549-f2b26167-23e0-49e1-b5dc-eed1f7d84dd5.png)
+##Defaulter can be mapped with the grade of loan as A is having least defaulters and G is highest. 
 
 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Analysis Based on Tenure
+![image](https://user-images.githubusercontent.com/84132394/201460596-6ca84f64-01be-44c7-8d2d-7c3b9e7a65ad.png)
+Persons applying for more tenure are likely to default more 
+
+- Analysis based on Intrest Rate 
+
+![image](https://user-images.githubusercontent.com/84132394/201460617-315bdd9d-9616-4870-b5c5-3fd8e1202b5f.png)
+Higher the intrest rate more risk of default 
+![image](https://user-images.githubusercontent.com/84132394/201460622-393d24de-8222-480b-8c1f-04ab4b75490e.png)
+
+
+- Analysis based on Income
+- ![image](https://user-images.githubusercontent.com/84132394/201460638-f33c41a5-eb99-4822-acc4-e4c9d51bc9d4.png)
+Less Annual income means more chances to default
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Python
+Numply directory
+Pandas directory
+Matplot
+Seaborn
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+
